@@ -1,4 +1,4 @@
-public class practical {
+public class practical_29jan {
     public static void main(String[] args) {
         // 1) Write a program to print capital Alphabets using pattern programming in
         // java ?
