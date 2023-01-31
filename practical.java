@@ -25,7 +25,7 @@ public class practical {
         // 4)Write a program to print Your Full name using pattern programming logic in
         // java ?
         System.out.println("MANOJ VITTHAL KATKAR");
-        System.out.println("MANOJ VITTHAL KATKAR");
+        
         
 
     }
