@@ -1,4 +1,4 @@
-public class practical_29jan {
+public class Practical_29jan {
     public static void main(String[] args) {
         // 1) Write a program to print capital Alphabets using pattern programming in
         // java ?
@@ -25,6 +25,7 @@ public class practical_29jan {
         // 4)Write a program to print Your Full name using pattern programming logic in
         // java ?
         System.out.println("MANOJ VITTHAL KATKAR");
+       
         
         
 
